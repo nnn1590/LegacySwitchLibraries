@@ -1,0 +1,3 @@
+[submodule "Syroot.NintenTools.Bfres/Syroot.BinaryData"]
+	path = Syroot.NintenTools.Bfres/Syroot.BinaryData
+	url = https://gitlab.com/Syroot/BinaryData.git

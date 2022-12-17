@@ -36,11 +36,6 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Syroot.BinaryData">
-      <HintPath>Syroot.BinaryData.dll</HintPath>
-    </Reference>
-    <Reference Include="Syroot.Maths">
-      <HintPath>Syroot.Maths.dll</HintPath>
-    </Reference>
+    <PackageReference Include="Syroot.Maths" Version="1.5.3" />
   </ItemGroup>
 </Project>
